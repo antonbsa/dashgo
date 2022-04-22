@@ -61,7 +61,7 @@ export default function Dashboard() {
   const series = [{
     name: 'series1',
     data: [
-      31, 20, 110, 18, 19,
+      31, 20, 110, 18, 19, 45, 66
     ]
   }]
 
